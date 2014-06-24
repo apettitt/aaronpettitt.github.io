@@ -1,4 +1,4 @@
-aaronpettitt.github.io
+# My Personal Github Home Page
 ======================
 
-My personal account GitHub Pages website
+For June 24, 2014 Training
